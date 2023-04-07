@@ -1,0 +1,5 @@
+requests
+pandas
+pyarrow
+openpyxl
+nb_black

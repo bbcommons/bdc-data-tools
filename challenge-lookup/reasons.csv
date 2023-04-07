@@ -1,0 +1,8 @@
+﻿ChallengeType,Reason
+1,Missing broadband serviceable location
+2,Incorrect primary address
+3,Incorrect unit count
+4,Incorrect building type code
+5,Location not within footprint of the correct building
+6,Location is not broadband serviceable
+7,Add supplemental address
